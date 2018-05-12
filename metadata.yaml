@@ -1,0 +1,38 @@
+_repo: Searchlights-on-Health--The-Science-of-Eugenics_13444
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Nichols, J. L. (James Lawrence)
+    alias: Nichols, James Lawrence
+    deathdate: 1895
+    gutenberg_agent_id: '5048'
+    url: http://www.gutenberg.org/2009/agents/5048
+  - agent_name: Jefferis, B. G. (Benjamin Grant)
+    alias: Jefferis, Benjamin Grant
+    birthdate: 1851
+    gutenberg_agent_id: '5047'
+    url: http://www.gutenberg.org/2009/agents/5047
+description: ''
+gutenberg_bookshelf:
+- Racism
+- Medicine
+gutenberg_issued: '2004-09-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13444'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hygiene'
+- !lcsh 'Eugenics'
+- !lcc 'HQ'
+- !lcsh 'Medicine, Popular'
+- !lcsh 'Sexual ethics'
+- !lcsh 'Marriage'
+title: 'Searchlights on Health: The Science of Eugenics'
+url: http://www.gutenberg.org/ebooks/13444
