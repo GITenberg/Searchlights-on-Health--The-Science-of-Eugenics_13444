@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '5047'
     url: http://www.gutenberg.org/2009/agents/5047
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13444#Searchlights-on-Health--The-Science-of-Eugenics
 gutenberg_bookshelf:
 - Racism
 - Medicine
